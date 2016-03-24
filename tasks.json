@@ -1,0 +1,7 @@
+//마크다운 to html 
+{
+    "version": "0.1.0",
+    "command": "marked",
+    "isShellCommand": true,
+    "args": ["tem.md", "-o", "tem.html"]
+}
